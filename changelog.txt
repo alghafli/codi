@@ -1,4 +1,6 @@
 0.0.1:
-    - initial release
+    - initial release.
 1.0.0:
-    - Added Config class
+    - Added Config class.
+1.0.1:
+    - Fix project tags in setup.py.
