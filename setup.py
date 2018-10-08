@@ -95,7 +95,7 @@ setup(
     # project page. What does your project relate to?
     #
     # Note that this is a string of words separated by whitespace, not a list.
-    keywords='file slice region, part',  # Optional
+    keywords='multiple, configuration',  # Optional
 
     # You can just specify package directories manually here if your project is
     # simple. Or you can use find_packages().
