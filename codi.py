@@ -1,6 +1,6 @@
 '''
 :Date: 2018-10-06
-:Version: 1.0.1
+:Version: 1.0.2
 :Authors:
     * Mohammad Alghafli <thebsom@gmail.com>
 

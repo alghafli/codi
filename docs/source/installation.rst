@@ -6,7 +6,7 @@ Installation
 Requirements
 -------------
 
-**The major requirement of codi is python 3. bitpit is a python 3 library and
+**The major requirement of codi is python 3. codi is a python 3 library and
 was never tested in python 2. So first make sure your version of python is 3.**
 
 ------------
